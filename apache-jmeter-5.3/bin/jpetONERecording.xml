@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="44" it="0" lt="44" ct="36" ts="1695738097675" s="true" lb="/canonical.html-1044" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="9" ts="1695738097815" s="true" lb="/success.txt-1046" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="9" ts="1695738097815" s="true" lb="/success.txt-1045" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="19" it="0" lt="18" ct="9" ts="1695738097980" s="true" lb="/canonical.html-1047" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="21" it="0" lt="21" ct="12" ts="1695738098109" s="true" lb="/success.txt-1048" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="12" ts="1695738098109" s="true" lb="/success.txt-1049" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="17" ct="8" ts="1695738098119" s="true" lb="/canonical.html-1050" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="10" ts="1695738098243" s="true" lb="/success.txt-1051" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="20" ct="10" ts="1695738098243" s="true" lb="/success.txt-1052" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="21" it="0" lt="21" ct="10" ts="1695738098419" s="true" lb="/canonical.html-1053" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="19" it="0" lt="19" ct="9" ts="1695738098594" s="true" lb="/success.txt-1054" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="9" ts="1695738098594" s="true" lb="/success.txt-1055" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="20" ct="9" ts="1695738098624" s="true" lb="/canonical.html-1056" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="16" it="0" lt="16" ct="8" ts="1695738098787" s="true" lb="/success.txt-1058" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="28" it="0" lt="28" ct="14" ts="1695738098787" s="true" lb="/success.txt-1057" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="9" ts="1695738098859" s="true" lb="/canonical.html-1059" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="19" it="0" lt="19" ct="10" ts="1695738099054" s="true" lb="/success.txt-1060" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="10" ts="1695738099054" s="true" lb="/success.txt-1061" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="8" ts="1695738099090" s="true" lb="/canonical.html-1062" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="17" it="0" lt="16" ct="7" ts="1695738099200" s="true" lb="/success.txt-1063" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="10" ts="1695738099200" s="true" lb="/success.txt-1064" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="12" ts="1695738099243" s="true" lb="/canonical.html-1065" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="17" it="0" lt="17" ct="8" ts="1695738099352" s="true" lb="/success.txt-1067" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="8" ts="1695738099352" s="true" lb="/success.txt-1066" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="8" ts="1695738099398" s="true" lb="/canonical.html-1068" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="21" it="0" lt="21" ct="9" ts="1695738099545" s="true" lb="/success.txt-1069" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="30" it="0" lt="30" ct="14" ts="1695738099545" s="true" lb="/success.txt-1070" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="15" ts="1695738099594" s="true" lb="/canonical.html-1071" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="22" it="0" lt="22" ct="10" ts="1695738099732" s="true" lb="/success.txt-1072" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="10" ts="1695738099732" s="true" lb="/success.txt-1073" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="15" it="0" lt="15" ct="7" ts="1695738099747" s="true" lb="/canonical.html-1074" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="17" it="0" lt="16" ct="8" ts="1695738099862" s="true" lb="/success.txt-1075" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="7" ts="1695738099863" s="true" lb="/success.txt-1076" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="17" it="0" lt="17" ct="8" ts="1695738099877" s="true" lb="/canonical.html-1077" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="19" it="0" lt="19" ct="7" ts="1695738099972" s="true" lb="/success.txt-1079" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="7" ts="1695738099972" s="true" lb="/success.txt-1078" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="10" ts="1695738100015" s="true" lb="/canonical.html-1080" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="18" it="0" lt="18" ct="9" ts="1695738100140" s="true" lb="/success.txt-1081" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="20" ct="11" ts="1695738100140" s="true" lb="/success.txt-1082" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="8" ts="1695738100174" s="true" lb="/canonical.html-1083" rc="200" rm="OK" tn="" dt="text" by="316" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="19" it="0" lt="19" ct="8" ts="1695738100264" s="true" lb="/success.txt-1085" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="9" ts="1695738100264" s="true" lb="/success.txt-1084" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="18" it="0" lt="17" ct="9" ts="1695738100318" s="true" lb="/canonical.html-1086" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="20" it="0" lt="20" ct="8" ts="1695738100407" s="true" lb="/success.txt-1087" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="29" it="0" lt="28" ct="13" ts="1695738100407" s="true" lb="/success.txt-1088" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="20" it="0" lt="20" ct="7" ts="1695738100436" s="true" lb="/canonical.html-1089" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="23" it="0" lt="23" ct="10" ts="1695738100569" s="true" lb="/success.txt-1090" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="21" ct="9" ts="1695738100573" s="true" lb="/success.txt-1091" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="17" ct="8" ts="1695738100637" s="true" lb="/canonical.html-1092" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="20" it="0" lt="20" ct="10" ts="1695738100818" s="true" lb="/success.txt-1093" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="10" ts="1695738100818" s="true" lb="/success.txt-1094" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="29" it="0" lt="29" ct="18" ts="1695738100854" s="true" lb="/canonical.html-1095" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="18" it="0" lt="17" ct="9" ts="1695738100990" s="true" lb="/success.txt-1096" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="10" ts="1695738100990" s="true" lb="/success.txt-1097" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="32" it="0" lt="32" ct="8" ts="1695738101035" s="true" lb="/canonical.html-1098" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="19" it="0" lt="19" ct="9" ts="1695738101139" s="true" lb="/success.txt-1099" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="8" ts="1695738101139" s="true" lb="/success.txt-1100" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="16" it="0" lt="16" ct="8" ts="1695738101227" s="true" lb="/canonical.html-1101" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="31" it="0" lt="30" ct="15" ts="1695738101297" s="true" lb="/success.txt-1102" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="31" it="0" lt="31" ct="15" ts="1695738101297" s="true" lb="/success.txt-1103" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="18" it="0" lt="18" ct="9" ts="1695738101345" s="true" lb="/canonical.html-1104" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="18" it="0" lt="17" ct="9" ts="1695738101395" s="true" lb="/success.txt-1105" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="17" ct="8" ts="1695738101398" s="true" lb="/success.txt-1106" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="31" it="0" lt="31" ct="17" ts="1695738101403" s="true" lb="/canonical.html-1107" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="16" ct="8" ts="1695738101438" s="true" lb="/success.txt-1108" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="16" ct="7" ts="1695738101445" s="true" lb="/success.txt-1109" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="push.services.mozilla.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="17" it="0" lt="17" ct="9" ts="1695738105768" s="true" lb="/canonical.html-1111" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="8" ts="1695738105792" s="true" lb="/success.txt-1112" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="8" ts="1695738105792" s="true" lb="/success.txt-1113" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="5971" it="0" lt="5970" ct="5845" ts="1695738105166" s="true" lb="/actions/Catalog.action-1110" rc="200" rm="" tn="" dt="text" by="5414" sby="470" ng="0" na="0">
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1070" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1070" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1070" sby="0" ng="0" na="0"/>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="19" it="0" lt="19" ct="10" ts="1695738111541" s="true" lb="/canonical.html-1114" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="8" ts="1695738111572" s="true" lb="/success.txt-1116" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="8" ts="1695738111570" s="true" lb="/success.txt-1115" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="21" it="0" lt="21" ct="8" ts="1695738111648" s="true" lb="/canonical.html-1117" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="10" ts="1695738111690" s="true" lb="/success.txt-1119" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="10" ts="1695738111690" s="true" lb="/success.txt-1118" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="17" it="0" lt="17" ct="8" ts="1695738111747" s="true" lb="/canonical.html-1120" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="17" ct="7" ts="1695738111771" s="true" lb="/success.txt-1122" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="19" ct="9" ts="1695738111769" s="true" lb="/success.txt-1121" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="698" it="0" lt="698" ct="519" ts="1695738124239" s="true" lb="/actions/Account.action;jsessionid=C12B4462FB813CFD8C319BEF91A77A24-1123" rc="200" rm="" tn="" dt="text" by="3844" sby="649" ng="0" na="0">
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action;jsessionid=C12B4462FB813CFD8C319BEF91A77A24?signonForm=</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="push.services.mozilla.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="18" it="0" lt="18" ct="9" ts="1695738125878" s="true" lb="/canonical.html-1124" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<httpSample t="16" it="0" lt="15" ct="7" ts="1695738125902" s="true" lb="/success.txt-1125" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="17" ct="8" ts="1695738125903" s="true" lb="/success.txt-1126" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="894" it="0" lt="894" ct="691" ts="1695738140837" s="true" lb="/actions/Account.action-1127" rc="302" rm="" tn="" dt="" by="213" sby="992" ng="0" na="0">
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action</java.net.URL>
+</httpSample>
+<httpSample t="880" it="0" lt="879" ct="675" ts="1695738141875" s="true" lb="/actions/Catalog.action-1128" rc="200" rm="" tn="" dt="text" by="4950" sby="649" ng="0" na="0">
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action</java.net.URL>
+</httpSample>
+<httpSample t="839" it="0" lt="838" ct="634" ts="1695738151951" s="true" lb="/actions/Catalog.action-1129" rc="200" rm="" tn="" dt="text" by="3873" sby="623" ng="0" na="0">
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&amp;categoryId=FISH</java.net.URL>
+</httpSample>
+<httpSample t="794" it="0" lt="793" ct="588" ts="1695738160700" s="true" lb="/actions/Catalog.action-1130" rc="200" rm="" tn="" dt="text" by="4051" sby="655" ng="0" na="0">
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&amp;productId=FI-SW-01</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="push.services.mozilla.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="31" it="0" lt="31" ct="22" ts="1695738165983" s="true" lb="/canonical.html-1131" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="16" ct="8" ts="1695738166021" s="true" lb="/success.txt-1133" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="9" ts="1695738166020" s="true" lb="/success.txt-1132" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="801" it="0" lt="800" ct="595" ts="1695738169704" s="true" lb="/actions/Cart.action-1134" rc="200" rm="" tn="" dt="text" by="4613" sby="657" ng="0" na="0">
+  <java.net.URL>https://petstore.octoperf.com/actions/Cart.action?addItemToCart=&amp;workingItemId=EST-1</java.net.URL>
+</httpSample>
+<httpSample t="1050" it="0" lt="1049" ct="844" ts="1695738183996" s="true" lb="/actions/Order.action-1135" rc="200" rm="" tn="" dt="text" by="5378" sby="637" ng="0" na="0">
+  <java.net.URL>https://petstore.octoperf.com/actions/Order.action?newOrderForm=</java.net.URL>
+</httpSample>
+<httpSample t="823" it="0" lt="822" ct="618" ts="1695738197328" s="true" lb="/actions/Order.action-1136" rc="200" rm="" tn="" dt="text" by="4520" sby="1274" ng="0" na="0">
+  <java.net.URL>https://petstore.octoperf.com/actions/Order.action</java.net.URL>
+</httpSample>
+<httpSample t="777" it="0" lt="776" ct="571" ts="1695738208128" s="true" lb="/actions/Order.action-1137" rc="200" rm="" tn="" dt="text" by="5216" sby="614" ng="0" na="0">
+  <java.net.URL>https://petstore.octoperf.com/actions/Order.action?newOrder=&amp;confirmed=true</java.net.URL>
+</httpSample>
+<httpSample t="2325" it="0" lt="2325" ct="2118" ts="1695738223887" s="true" lb="/actions/Account.action-1138" rc="302" rm="" tn="" dt="" by="213" sby="625" ng="0" na="0">
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action?signoff=</java.net.URL>
+</httpSample>
+<httpSample t="1913" it="0" lt="1912" ct="1706" ts="1695738226347" s="true" lb="/actions/Catalog.action-1139" rc="200" rm="" tn="" dt="text" by="4798" sby="616" ng="0" na="0">
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="location.services.mozilla.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="1220" sby="0" ng="0" na="0"/>
+<httpSample t="48" it="0" lt="47" ct="39" ts="1695738233018" s="true" lb="/canonical.html-1140" rc="200" rm="OK" tn="" dt="text" by="317" sby="298" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/canonical.html</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="8" ts="1695738233071" s="true" lb="/success.txt-1141" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv4</java.net.URL>
+</httpSample>
+<httpSample t="27" it="0" lt="27" ct="12" ts="1695738233073" s="true" lb="/success.txt-1142" rc="200" rm="OK" tn="" dt="text" by="235" sby="300" ng="0" na="0">
+  <java.net.URL>http://detectportal.firefox.com/success.txt?ipv6</java.net.URL>
+</httpSample>
+
+</testResults>
